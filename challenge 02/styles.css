@@ -60,3 +60,36 @@ h1 {
 .btn:focus {
     opacity: .75; 
 }
+
+.p3 {
+display: flex;
+background-color: aqua;
+}
+
+.t1 {
+margin: 5%;
+text-align: center;
+
+}
+
+.t1 h2 {
+text-align: center;
+
+}
+
+.p2 {
+display: flex;
+
+}
+
+.p2 h2 {
+color: rgb(129, 12, 12);
+
+}
+
+
+.p3 h2 {
+color:rgb(255, 0, 221);
+
+
+}
