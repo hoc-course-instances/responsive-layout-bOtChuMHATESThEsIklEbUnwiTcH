@@ -68,6 +68,7 @@ header {
     margin: 0;
     padding: 0;
     list-style: none;
+    display: flex;
 }
 
 .nav__link {
@@ -122,3 +123,36 @@ header {
     color: #fff;
     background-color: #136c72;
 }
+
+.nav__item {
+    margin: 1%;
+}
+
+.p1 {
+    display: flex;
+    justify-content:space-evenly;
+    }
+
+.p1-1 img{
+    margin-top: 10%;
+}
+
+.p1-2{
+
+}
+
+.p1-3{}
+
+.nav__list .nav__item {
+margin:5%;
+
+}
+
+@media only screen and (max-width: 800px) {
+    .p1{
+      flex-direction: column;
+      text-align: center;
+    }
+
+
+  }
